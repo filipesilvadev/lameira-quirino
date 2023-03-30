@@ -1,0 +1,14 @@
+# Node Modules
+node_modules/
+
+# Sass Cache
+.sass-cache/
+
+# Package Lock
+package-lock.json
+
+# DS_Store
+.DS_Store
+
+# PHPStorm project config
+.idea/*

@@ -1,0 +1,1198 @@
+# Translation of Page Builder Framework Premium Add-On in Hebrew
+# This file is distributed under the same license as the Page Builder Framework Premium Add-On package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-05-07 13:30:01+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.1\n"
+"Language: he_IL\n"
+"Project-Id-Version: Page Builder Framework Premium Add-On\n"
+
+#: wpbf-premium.php:222
+msgid "%1$s Love using Page Builder Framework? - That's Awesome! Help us spread the word and leave us a %2$s5-star review%3$s in the WordPress repository."
+msgstr ""
+
+#: wpbf-premium.php:227
+msgid "Sure! I'd love to help"
+msgstr ""
+
+#: inc/custom-sections.php:531
+msgctxt "Post Type General Name"
+msgid "Custom Sections"
+msgstr ""
+
+#: inc/custom-sections.php:533 inc/custom-sections.php:1359
+#: inc/custom-sections.php:1360
+msgid "Custom Sections"
+msgstr ""
+
+#: inc/custom-sections.php:534
+msgid "All Sections"
+msgstr ""
+
+#: inc/custom-sections.php:535
+msgid "Add New Section"
+msgstr ""
+
+#: inc/custom-sections.php:536
+msgid "New Section"
+msgstr ""
+
+#: inc/custom-sections.php:537
+msgid "Edit Section"
+msgstr ""
+
+#: inc/custom-sections.php:538
+msgid "Update Section"
+msgstr ""
+
+#: inc/custom-sections.php:539
+msgid "Search Section"
+msgstr ""
+
+#: inc/custom-sections.php:616 inc/custom-sections.php:619
+msgid "Section updated."
+msgstr ""
+
+#: inc/custom-sections.php:621
+msgid "Section published."
+msgstr ""
+
+#: inc/custom-sections.php:622
+msgid "Section saved."
+msgstr ""
+
+#: inc/custom-sections.php:623
+msgid "Section submitted."
+msgstr ""
+
+#: inc/custom-sections.php:628
+msgid "Section draft updated."
+msgstr ""
+
+#: inc/custom-sections.php:645
+msgid "Display Rules"
+msgstr ""
+
+#: inc/custom-sections.php:691
+msgid "Mobile Navigation"
+msgstr ""
+
+#: inc/custom-sections.php:800
+msgid "Hooks"
+msgstr ""
+
+#: inc/custom-sections.php:850
+msgid "All %s"
+msgstr ""
+
+#: inc/custom-sections.php:900
+msgid "Select..."
+msgstr ""
+
+#: inc/custom-sections.php:902
+msgid "Entire Site"
+msgstr ""
+
+#: inc/custom-sections.php:903
+msgid "All Archive"
+msgstr ""
+
+#: inc/custom-sections.php:904
+msgid "Author Archive"
+msgstr ""
+
+#: inc/custom-sections.php:905
+msgid "Date Archive"
+msgstr ""
+
+#: inc/custom-sections.php:906
+msgid "Search Results"
+msgstr ""
+
+#: inc/custom-sections.php:907 inc/customizer/wpbf-kirki.php:60
+msgid "404 Page"
+msgstr ""
+
+#: inc/custom-sections.php:910
+msgid "Pages"
+msgstr ""
+
+#: inc/custom-sections.php:914
+msgid "Post Category"
+msgstr ""
+
+#: inc/custom-sections.php:915
+msgid "Post Tag"
+msgstr ""
+
+#: inc/custom-sections.php:916
+msgid "Post Archive"
+msgstr ""
+
+#: inc/custom-sections.php:924
+msgid "Downloads"
+msgstr ""
+
+#: inc/custom-sections.php:925
+msgid "Downloads Category"
+msgstr ""
+
+#: inc/custom-sections.php:926
+msgid "Downloads Tag"
+msgstr ""
+
+#: inc/custom-sections.php:931
+msgid "Products"
+msgstr ""
+
+#: inc/custom-sections.php:932
+msgid "Product Category"
+msgstr ""
+
+#: inc/custom-sections.php:933
+msgid "Product Tag"
+msgstr ""
+
+#: inc/custom-sections.php:996
+msgid "All Post Categories"
+msgstr ""
+
+#: inc/custom-sections.php:1007 inc/custom-sections.php:1110
+msgid "All Post Tags"
+msgstr ""
+
+#: inc/custom-sections.php:1041
+msgid "All Authors"
+msgstr ""
+
+#: inc/custom-sections.php:1065
+msgid "All Downloads Categories"
+msgstr ""
+
+#: inc/custom-sections.php:1075
+msgid "All Downloads Tags"
+msgstr ""
+
+#: inc/custom-sections.php:1100
+msgid "All Product Categories"
+msgstr ""
+
+#: inc/custom-sections.php:1264
+msgid "Include"
+msgstr ""
+
+#: inc/custom-sections.php:1269
+msgid "Add Inclusion Rule"
+msgstr ""
+
+#: inc/custom-sections.php:1274
+msgid "Exclude"
+msgstr ""
+
+#: inc/custom-sections.php:1279
+msgid "Add Exclusion Rule"
+msgstr ""
+
+#: inc/custom-sections.php:1293
+msgid "Display Hooks"
+msgstr ""
+
+#: inc/custom-sections.php:816
+msgid "Priority"
+msgstr ""
+
+#: inc/customizer/custom-fonts.php:31 inc/customizer/custom-fonts.php:49
+#: inc/customizer/wpbf-kirki.php:51 inc/customizer/wpbf-kirki.php:955
+msgid "Custom Fonts"
+msgstr ""
+
+#: inc/customizer/typekit.php:79
+msgid "TypeKit Fonts"
+msgstr ""
+
+#: inc/customizer/wpbf-kirki.php:946
+msgid "Enable Custom Fonts"
+msgstr ""
+
+#: inc/customizer/wpbf-kirki.php:961
+msgid "Custom Font"
+msgstr ""
+
+#: inc/customizer/wpbf-kirki.php:986
+msgid "Woff"
+msgstr ""
+
+#: inc/customizer/wpbf-kirki.php:991
+msgid "Woff2"
+msgstr ""
+
+#: inc/customizer/wpbf-kirki.php:996
+msgid "TTF"
+msgstr ""
+
+#: inc/customizer/wpbf-kirki.php:1001
+msgid "SVG"
+msgstr ""
+
+#: inc/customizer/wpbf-kirki.php:1006
+msgid "EOT"
+msgstr ""
+
+#: inc/custom-sections.php:532
+msgctxt "Post Type Singular Name"
+msgid "Section"
+msgstr ""
+
+#: inc/custom-sections.php:567 inc/custom-sections.php:573
+#: inc/custom-sections.php:638 inc/custom-sections.php:787
+msgid "Location"
+msgstr ""
+
+#: inc/custom-sections.php:620
+msgid "Section restored to revision from %s"
+msgstr ""
+
+#: inc/custom-sections.php:625
+msgid "Section scheduled for: <strong>%1$s</strong>."
+msgstr ""
+
+#: inc/custom-sections.php:626
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: inc/custom-sections.php:657
+msgid "General"
+msgstr ""
+
+#: inc/custom-sections.php:681
+msgid "Navigation"
+msgstr ""
+
+#: inc/custom-sections.php:695
+msgid "Sidebar"
+msgstr ""
+
+#: inc/custom-sections.php:707 inc/custom-sections.php:913
+msgid "Posts"
+msgstr ""
+
+#: inc/custom-sections.php:747 inc/custom-sections.php:752
+msgid "Display Theme Hooks"
+msgstr ""
+
+#: inc/custom-sections.php:760 inc/custom-sections.php:765
+msgid "Hide Theme Hooks"
+msgstr ""
+
+#: inc/customizer/wpbf-kirki.php:44
+msgid "Typekit"
+msgstr ""
+
+#: inc/customizer/wpbf-kirki.php:1697 inc/customizer/wpbf-kirki.php:2010
+msgid "Overlay"
+msgstr ""
+
+#: inc/customizer/wpbf-kirki.php:1713 inc/customizer/wpbf-kirki.php:2026
+msgid "Overlay Color"
+msgstr ""
+
+#: inc/integration/woocommerce/woocommerce-quick-view.php:107
+msgid "Placeholder"
+msgstr ""
+
+#: inc/integration/woocommerce/woocommerce-quick-view.php:138
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:169
+msgid "Quick View"
+msgstr ""
+
+#: inc/integration/woocommerce/woocommerce-functions.php:81
+msgid "-"
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:22
+msgid "Cart Icon"
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:30
+msgid "Bag"
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:46
+msgid "\"Cart\" Text"
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:52
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:67
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:90
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:105
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:127
+msgid "Show"
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:53
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:68
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:91
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:106
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:128
+msgid "Hide"
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:61
+msgid "Amount"
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:84
+msgid "Dropdown"
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:99
+msgid "Cart Button"
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:121
+msgid "Checkout Button"
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:145
+msgid "Image Flip"
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:146
+msgid "Displays the first image of your product gallery (if available) when hovering over the product thumbnail."
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:151
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:174
+msgid "Enabled"
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:152
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:175
+msgid "Disabled"
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:243
+msgid "Overlay Background Color"
+msgstr ""
+
+#. Description of the plugin
+msgid "Premium Add-On for Page Builder Framework"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wp-pagebuilderframework.com"
+msgstr ""
+
+#: inc/helpers.php:83
+msgid "Click the button below to load the video from %s."
+msgstr ""
+
+#: inc/helpers.php:85
+msgid "Something went wrong. Please make sure you enter the embed-url as the src tag for the shortcode. <a href=\"%1s\" target=\"_blank\">Help</a>"
+msgstr ""
+
+#: inc/customizer/wpbf-kirki.php:1291
+msgid "Hide on Scroll"
+msgstr ""
+
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:29
+msgid "Basket"
+msgstr ""
+
+#: wpbf-premium.php:185
+msgid "%1s Action required! Please update Page Builder Framework to the latest version. For help, please have a look at the %2s."
+msgstr ""
+"‫1s % הפעולה הנדרשת! אנא עדכן מסגרת בונה האתרים לגרסה העדכנית ביותר. לקבלת עזרה, בבקשה להעיף מבט 2s %.\n"
+"‬"
+
+#: inc/settings/wpbf-global-settings.php:26
+msgid "Global Template Settings %1s"
+msgstr "הגדרות התבנית הכללית %1s"
+
+#: inc/settings/wpbf-global-settings.php:27
+msgid "Performance Settings %1s"
+msgstr ""
+"הגדרות הביצועים\n"
+" %1s"
+
+#: inc/settings/wpbf-global-settings.php:29
+msgid "White Label %1s <p class=\"description\">For a white labeled child theme, check out the %2s.</p>"
+msgstr "תווית לבנה %1s<p class=\"description\">עבור ערכת נושא ילד שכותרתו לבן, לבדוק את 2s %.</p>"
+
+#: wpbf-premium.php:157
+msgid "Page Builder Framework Premium Add-On."
+msgstr " הרחבת מסגרת דף בונה האתרים פרמיום ."
+
+#: wpbf-premium.php:158
+msgid "Your License expires in <strong>%1s</strong>. <a href=\"%2s\" target=\"_blank\">Renew your License</a> to keep getting Feature Updates & Premium Support."
+msgstr ""
+
+#: wpbf-premium.php:173
+msgid "You need to install/activate the Page Builder Framework theme for the Premium Addon to work!"
+msgstr "עליך להתקין/להפעיל את מסגרת בונה האתרים בכדי שהרחבת הפרמיום תעבוד!"
+
+#: wpbf-premium.php:201
+msgid "Please <a href=\"%1s\">activate your license key</a> to receive updates for <strong>Page Builder Framework Premium Add-On.</strong> <a href=\"%2s\" target=\"_blank\">Help</a>"
+msgstr "‫Please <a href=\"%1s\">הפעל את מפתח הרישיון שלך </a> לקבלת עדכונים עבור <strong>Page Builder Framework Premium Add-On.</strong> <a href=\"%2s\" target=\"_blank\">Help</a>"
+
+#: inc/init.php:14
+msgid "Theme Settings"
+msgstr "הגדרות ערכת עיצוב"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:119
+msgid "Product/s"
+msgstr "מוצרים"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:120
+msgid "Quantity"
+msgstr "כמות"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:169
+msgid "Subtotal"
+msgstr "סה\"כ"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:79
+#: inc/integration/woocommerce/woocommerce-functions.php:98
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:28
+msgid "Cart"
+msgstr "סל קניות"
+
+#: inc/integration/woocommerce/woocommerce-functions.php:178
+msgid "Checkout"
+msgstr "המשך לתשלום"
+
+#: inc/settings/options.php:33 inc/settings/options.php:58
+#: inc/customizer/wpbf-kirki.php:97
+msgid "Transparent Header"
+msgstr "Header שקופה (Transparent Header)"
+
+#: inc/settings/wpbf-global-settings.php:28
+msgid "Responsive Breakpoints"
+msgstr "נקודות עצירה מהירה"
+
+#: inc/settings/wpbf-global-settings.php:32
+msgid "Full Width"
+msgstr "רוחב מלא"
+
+#: inc/settings/wpbf-global-settings.php:33
+msgid "Remove Title"
+msgstr "להסיר את הכותרת"
+
+#: inc/settings/wpbf-global-settings.php:34
+msgid "Performance Settings"
+msgstr "הגדרות הביצועים"
+
+#: inc/settings/wpbf-global-settings.php:35
+msgid "Medium Devices"
+msgstr "מסכים גדולים ובינוניים בלבד"
+
+#: inc/settings/wpbf-global-settings.php:36
+msgid "Desktop"
+msgstr "מחשב שולחני"
+
+#: inc/settings/wpbf-global-settings.php:38
+msgid "Theme Name"
+msgstr "שם ערכת נושא"
+
+#: inc/settings/wpbf-global-settings.php:39
+msgid "Theme Description"
+msgstr "תיאור ערכת נושא"
+
+#: inc/settings/wpbf-global-settings.php:40
+msgid "Tags"
+msgstr "תגיות"
+
+#: inc/settings/wpbf-global-settings.php:41
+msgid "Company Name"
+msgstr "שם חברה לערכת הנושא"
+
+#: inc/settings/wpbf-global-settings.php:42
+msgid "Company URL"
+msgstr "קישור חברה לערכת הנושא"
+
+#: inc/settings/wpbf-global-settings.php:43
+msgid "Screenshot"
+msgstr "צילום־ מסך"
+
+#: inc/settings/wpbf-global-settings.php:154
+msgid "Remove Feed Links"
+msgstr "להסיר קישורים הזנה"
+
+#: inc/settings/wpbf-global-settings.php:158
+msgid "Remove RSD"
+msgstr "הסר"
+
+#: inc/settings/wpbf-global-settings.php:162
+msgid "Remove wlwmanifest"
+msgstr "הסרת wlwmanifest"
+
+#: inc/settings/wpbf-global-settings.php:166
+msgid "Remove Generator"
+msgstr "להסיר את הגנרטור"
+
+#: inc/settings/wpbf-global-settings.php:170
+msgid "Remove Shortlink"
+msgstr "הסתר קיצור קישורים‬"
+
+#: inc/settings/wpbf-global-settings.php:174
+msgid "Disable Emojis"
+msgstr "בטל Emojis"
+
+#: inc/settings/wpbf-global-settings.php:178
+msgid "Disable Embeds"
+msgstr "ניטרול Embeds"
+
+#: inc/settings/wpbf-global-settings.php:182
+msgid "Remove jQuery Migrate"
+msgstr "הסרת jQuery Migrate"
+
+#: inc/settings/wpbf-global-settings.php:186
+msgid "Disable RSS Feed"
+msgstr "בטל RSS Feed‬"
+
+#: inc/settings/wpbf-global-settings.php:190
+msgid "Load Google Fonts asynchronously"
+msgstr "טעינת גופני גוגל באופן אסינכרוני‬"
+
+#: inc/settings/wpbf-global-settings.php:209
+msgid "Default: above 768px for tablets."
+msgstr "ברירת מחדל: מעל 768px טבליות."
+
+#: inc/settings/wpbf-global-settings.php:226
+msgid "Default: above 1024px for desktops."
+msgstr "ברירת מחדל: מעל 1024px עבור מחשבים שולחניים.‬"
+
+#: inc/settings/wpbf-global-settings.php:349
+msgid "Recommended image size: 1200px x 900px"
+msgstr " גודל תמונה ‫מומלץ: 1200px x 900px‬"
+
+#: inc/settings/wpbf-settings-template.php:53
+msgid "License Key"
+msgstr "מפתח רישיון"
+
+#: inc/settings/wpbf-settings-template.php:57
+msgid "Enter your Premium Add-On license key."
+msgstr "הזן את מפתח הרישיון פרימיום ההרחבות שלך."
+
+#: inc/settings/wpbf-settings-template.php:63
+#: inc/settings/wpbf-settings-template.php:72
+msgid "Activate License"
+msgstr "הפעלת הרישיון"
+
+#: inc/settings/wpbf-settings-template.php:67
+msgid "active"
+msgstr "פעיל!"
+
+#: inc/settings/wpbf-settings-template.php:69
+msgid "Deactivate License"
+msgstr "הסרת הרישיון"
+
+#: inc/integration/elementor.php:27
+msgid "Before Header"
+msgstr "לפני ההאדר"
+
+#: inc/custom-sections.php:665 inc/integration/elementor.php:36
+msgid "Pre Header"
+msgstr "הדר"
+
+#: inc/integration/elementor.php:46
+msgid "After Header"
+msgstr "אחרי ההאדר"
+
+#: inc/integration/elementor.php:64
+msgid "Before Footer"
+msgstr "לפני הפוטר"
+
+#: inc/integration/elementor.php:73
+msgid "After Footer"
+msgstr "אחרי הפוטר"
+
+#: inc/integration/elementor.php:83
+msgid "Before Post"
+msgstr "לפני הפוסט"
+
+#: inc/integration/elementor.php:92
+msgid "After Post"
+msgstr "אחרי הפוסט"
+
+#: inc/integration/elementor.php:102
+msgid "Before Sidebar"
+msgstr "לפני הסיידבר"
+
+#: inc/integration/elementor.php:111
+msgid "After Sidebar"
+msgstr "אחרי הסיידבר"
+
+#: inc/customizer/customizer-functions.php:31
+msgid "Stacked (advanced)"
+msgstr "עמודות מוערמות (מתקדם)"
+
+#: inc/customizer/customizer-functions.php:32
+msgid "Off Canvas (right)"
+msgstr "מחוץ לקנבס (ימני)"
+
+#: inc/customizer/customizer-functions.php:33
+msgid "Off Canvas (left)"
+msgstr "את הבד (משמאל)"
+
+#: inc/customizer/customizer-functions.php:34
+msgid "Full Screen"
+msgstr "מסך מלא"
+
+#: inc/customizer/customizer-functions.php:37
+#: inc/customizer/customizer-functions.php:48
+#: inc/customizer/wpbf-kirki.php:1745
+msgid "Custom Menu"
+msgstr "תפריט"
+
+#: inc/customizer/customizer-functions.php:45
+msgid "Off Canvas"
+msgstr "מחוץ לקנבס"
+
+#: inc/custom-sections.php:675 inc/customizer/wpbf-kirki.php:28
+msgid "Header"
+msgstr "הידר"
+
+#: inc/custom-sections.php:701 inc/customizer/wpbf-kirki.php:35
+#: inc/customizer/wpbf-kirki.php:2213
+msgid "Footer"
+msgstr "פוטר"
+
+#: inc/customizer/wpbf-kirki.php:67
+msgid "Social Media Links"
+msgstr "קישורי מדיה חברתית"
+
+#: inc/customizer/wpbf-kirki.php:74 inc/customizer/wpbf-kirki.php:121
+msgid "Social Media Icons"
+msgstr "מדיה חברתית סמלי"
+
+#: inc/customizer/wpbf-kirki.php:83 inc/customizer/wpbf-kirki.php:1026
+msgid "Sticky Navigation"
+msgstr "ניווט דביק"
+
+#: inc/customizer/wpbf-kirki.php:90
+msgid "Navigation Hover Effects"
+msgstr "אפקטי ריחוף"
+
+#: inc/customizer/wpbf-kirki.php:107
+msgid "Custom 404 Page"
+msgstr "דף מותאם אישית 404"
+
+#: inc/customizer/wpbf-kirki.php:108
+msgid "Replace the default 404 page with your custom layout. <br><br>Example:<br>[elementor-template id=\"xxx\"]<br>[fl_builder_insert_layout id=\"xxx\"]"
+msgstr "להחליף את עמוד 404 ברירת מחדל עם פריסה מותאמת אישית שלך.<br><br>דוגמה:<br>[elementor-תבנית id = \"xxx\"]<br>[fl_builder_insert_layout id = \"xxx\"]"
+
+#: inc/customizer/wpbf-kirki.php:122
+msgid "Display social media icons in your pre-header, footer or template file by using the [social] shortcode."
+msgstr "הצגת מדיה חברתית סמלי קדם עליונה, כותרת תחתונה או קובץ תבנית באמצעות shortcode [חברתית]."
+
+#: inc/customizer/wpbf-kirki.php:125 inc/customizer/wpbf-kirki.php:208
+msgid "Facebook"
+msgstr "פייסבוק"
+
+#: inc/customizer/wpbf-kirki.php:126 inc/customizer/wpbf-kirki.php:218
+msgid "Twitter"
+msgstr "טוויטר"
+
+#: inc/customizer/wpbf-kirki.php:127 inc/customizer/wpbf-kirki.php:228
+msgid "Google+"
+msgstr "הגדרות ייבוא יומן Google"
+
+#: inc/customizer/wpbf-kirki.php:128 inc/customizer/wpbf-kirki.php:238
+msgid "Pinterest"
+msgstr "פינטרסט"
+
+#: inc/customizer/wpbf-kirki.php:129 inc/customizer/wpbf-kirki.php:248
+msgid "Youtube"
+msgstr "יוטיוב"
+
+#: inc/customizer/wpbf-kirki.php:130 inc/customizer/wpbf-kirki.php:258
+msgid "Instagram"
+msgstr "אינסטגרם"
+
+#: inc/customizer/wpbf-kirki.php:131 inc/customizer/wpbf-kirki.php:268
+msgid "Vimeo"
+msgstr "וימאו"
+
+#: inc/customizer/wpbf-kirki.php:132 inc/customizer/wpbf-kirki.php:278
+msgid "Soundcloud"
+msgstr "סאונד קלאוד"
+
+#: inc/customizer/wpbf-kirki.php:133 inc/customizer/wpbf-kirki.php:288
+msgid "LinkedIn"
+msgstr "לינקדאין"
+
+#: inc/customizer/wpbf-kirki.php:134 inc/customizer/wpbf-kirki.php:298
+msgid "Yelp"
+msgstr "Yelp"
+
+#: inc/customizer/wpbf-kirki.php:143
+msgid "Style"
+msgstr "עיצוב"
+
+#: inc/customizer/wpbf-kirki.php:149
+msgid "Plain"
+msgstr "פשוט"
+
+#: inc/customizer/wpbf-kirki.php:150
+msgid "Rounded"
+msgstr "מעוגל"
+
+#: inc/customizer/wpbf-kirki.php:151
+msgid "Boxed"
+msgstr "תיבה"
+
+#: inc/customizer/wpbf-kirki.php:159 inc/customizer/wpbf-kirki.php:384
+#: inc/customizer/wpbf-kirki.php:445 inc/customizer/wpbf-kirki.php:527
+#: inc/customizer/wpbf-kirki.php:609 inc/customizer/wpbf-kirki.php:691
+#: inc/customizer/wpbf-kirki.php:773 inc/customizer/wpbf-kirki.php:1382
+#: inc/customizer/wpbf-kirki.php:2126
+msgid "Color"
+msgstr "צבע"
+
+#: inc/customizer/wpbf-kirki.php:165
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: inc/customizer/wpbf-kirki.php:166
+msgid "Grey"
+msgstr "אפור"
+
+#: inc/customizer/wpbf-kirki.php:167
+msgid "Brand Colors"
+msgstr "צבעי המותג"
+
+#: inc/customizer/wpbf-kirki.php:168
+msgid "Filled"
+msgstr "מלאה"
+
+#: inc/customizer/wpbf-kirki.php:176 inc/customizer/wpbf-kirki.php:2145
+msgid "Size"
+msgstr "גודל"
+
+#: inc/customizer/wpbf-kirki.php:182
+msgid "Small"
+msgstr "קטן"
+
+#: inc/customizer/wpbf-kirki.php:183
+msgid "Large"
+msgstr "גדול"
+
+#: inc/customizer/wpbf-kirki.php:191 inc/customizer/wpbf-kirki.php:339
+#: inc/customizer/wpbf-kirki.php:2344 inc/customizer/wpbf-kirki.php:2355
+#: inc/customizer/wpbf-kirki.php:2366 inc/customizer/wpbf-kirki.php:2392
+#: inc/customizer/wpbf-kirki.php:2403 inc/customizer/wpbf-kirki.php:2414
+#: inc/customizer/wpbf-kirki.php:2440 inc/customizer/wpbf-kirki.php:2451
+#: inc/customizer/wpbf-kirki.php:2462 inc/customizer/wpbf-kirki.php:2488
+#: inc/customizer/wpbf-kirki.php:2499 inc/customizer/wpbf-kirki.php:2510
+#: inc/customizer/wpbf-kirki.php:2536 inc/customizer/wpbf-kirki.php:2547
+#: inc/customizer/wpbf-kirki.php:2558 inc/customizer/wpbf-kirki.php:2584
+#: inc/customizer/wpbf-kirki.php:2595 inc/customizer/wpbf-kirki.php:2606
+#: inc/customizer/wpbf-kirki.php:2632 inc/customizer/wpbf-kirki.php:2643
+#: inc/customizer/wpbf-kirki.php:2654
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:182
+msgid "Font Size"
+msgstr "גודל פונט"
+
+#: inc/customizer/wpbf-kirki.php:309
+msgid "Bold Text Color"
+msgstr "צבע טקסט"
+
+#: inc/customizer/wpbf-kirki.php:322 inc/customizer/wpbf-kirki.php:396
+#: inc/customizer/wpbf-kirki.php:457 inc/customizer/wpbf-kirki.php:539
+#: inc/customizer/wpbf-kirki.php:621 inc/customizer/wpbf-kirki.php:703
+#: inc/customizer/wpbf-kirki.php:785
+msgid "Line Height"
+msgstr "גובה שורה"
+
+#: inc/customizer/wpbf-kirki.php:351 inc/customizer/wpbf-kirki.php:412
+#: inc/customizer/wpbf-kirki.php:480 inc/customizer/wpbf-kirki.php:562
+#: inc/customizer/wpbf-kirki.php:644 inc/customizer/wpbf-kirki.php:726
+#: inc/customizer/wpbf-kirki.php:808
+msgid "Letter Spacing"
+msgstr "ריווח אות"
+
+#: inc/customizer/wpbf-kirki.php:367 inc/customizer/wpbf-kirki.php:428
+#: inc/customizer/wpbf-kirki.php:503 inc/customizer/wpbf-kirki.php:585
+#: inc/customizer/wpbf-kirki.php:667 inc/customizer/wpbf-kirki.php:749
+#: inc/customizer/wpbf-kirki.php:831
+msgid "Text transform"
+msgstr "שינוי הטקסט"
+
+#: inc/customizer/wpbf-kirki.php:373 inc/customizer/wpbf-kirki.php:434
+#: inc/customizer/wpbf-kirki.php:509 inc/customizer/wpbf-kirki.php:591
+#: inc/customizer/wpbf-kirki.php:673 inc/customizer/wpbf-kirki.php:755
+#: inc/customizer/wpbf-kirki.php:837 inc/customizer/wpbf-kirki.php:1288
+#: inc/customizer/wpbf-kirki.php:2055 inc/customizer/wpbf-kirki.php:2218
+msgid "None"
+msgstr "ללא"
+
+#: inc/customizer/wpbf-kirki.php:374 inc/customizer/wpbf-kirki.php:435
+#: inc/customizer/wpbf-kirki.php:510 inc/customizer/wpbf-kirki.php:592
+#: inc/customizer/wpbf-kirki.php:674 inc/customizer/wpbf-kirki.php:756
+#: inc/customizer/wpbf-kirki.php:838
+msgid "Uppercase"
+msgstr "אותיות גדולות"
+
+#: inc/customizer/wpbf-kirki.php:855
+msgid "Enable Typekit"
+msgstr "הפעל Typekit"
+
+#: inc/customizer/wpbf-kirki.php:865
+msgid "Typekit ID"
+msgstr "מזהה ערכת Typekit"
+
+#: inc/customizer/typekit.php:48 inc/customizer/wpbf-kirki.php:881
+msgid "Typekit Fonts"
+msgstr " פונטים של Typekit"
+
+#: inc/customizer/wpbf-kirki.php:887
+msgid "Typekit Font"
+msgstr "‫ פונט Typekit"
+
+#: inc/customizer/wpbf-kirki.php:899 inc/customizer/wpbf-kirki.php:977
+msgid "Name"
+msgstr "שם מלא"
+
+#: inc/customizer/wpbf-kirki.php:903 inc/customizer/wpbf-kirki.php:981
+msgid "Font Family"
+msgstr "משפחת גופן"
+
+#: inc/customizer/wpbf-kirki.php:907
+msgid "Variants"
+msgstr "גרסאות"
+
+#: inc/customizer/wpbf-kirki.php:910
+msgid "100"
+msgstr "100"
+
+#: inc/customizer/wpbf-kirki.php:911
+msgid "100italic"
+msgstr "‫100italic"
+
+#: inc/customizer/wpbf-kirki.php:912
+msgid "200"
+msgstr "200"
+
+#: inc/customizer/wpbf-kirki.php:913
+msgid "200italic"
+msgstr "‫200italic"
+
+#: inc/customizer/wpbf-kirki.php:914
+msgid "300"
+msgstr "300"
+
+#: inc/customizer/wpbf-kirki.php:915
+msgid "300italic"
+msgstr "‫300italic"
+
+#: inc/customizer/wpbf-kirki.php:916
+msgid "regular"
+msgstr "רגיל"
+
+#: inc/customizer/wpbf-kirki.php:917
+msgid "italic"
+msgstr "איטליק"
+
+#: inc/customizer/wpbf-kirki.php:918
+msgid "500"
+msgstr "500"
+
+#: inc/customizer/wpbf-kirki.php:919
+msgid "500italic"
+msgstr "‫500italic"
+
+#: inc/customizer/wpbf-kirki.php:920
+msgid "600"
+msgstr "600"
+
+#: inc/customizer/wpbf-kirki.php:921
+msgid "600italic"
+msgstr "‫600italic"
+
+#: inc/customizer/wpbf-kirki.php:922
+msgid "700"
+msgstr "700"
+
+#: inc/customizer/wpbf-kirki.php:923
+msgid "700italic"
+msgstr "‫700italic"
+
+#: inc/customizer/wpbf-kirki.php:924
+msgid "800"
+msgstr "800"
+
+#: inc/customizer/wpbf-kirki.php:925
+msgid "800italic"
+msgstr "‫800italic"
+
+#: inc/customizer/wpbf-kirki.php:926
+msgid "900"
+msgstr "900"
+
+#: inc/customizer/wpbf-kirki.php:927
+msgid "900italic"
+msgstr "‫900italic"
+
+#: inc/customizer/wpbf-kirki.php:1036 inc/customizer/wpbf-kirki.php:1517
+msgid "Logo"
+msgstr "תפריט ניווט ממורכז + לוגו"
+
+#: inc/customizer/wpbf-kirki.php:1057
+msgid "Hide Logo"
+msgstr "הסתר לוגו"
+
+#: inc/customizer/wpbf-kirki.php:1058
+msgid "Hides the logo from the sticky navigation."
+msgstr "הסתרת הלוגו במצב הניווט דביק.‬"
+
+#: inc/customizer/wpbf-kirki.php:1080
+msgid "Logo Size"
+msgstr "לוגו"
+
+#: inc/customizer/wpbf-kirki.php:1106
+msgid "Menu Height"
+msgstr "גובה התפריט"
+
+#: inc/customizer/wpbf-kirki.php:1128
+msgid "Delay"
+msgstr "השהייה"
+
+#: inc/customizer/wpbf-kirki.php:1133
+msgid "Set a delay after the sticky navigation should appear. Default: 300px"
+msgstr "להגדיר עיכוב לאחר הניווט דביק אמור להופיע.  ברירת מחדל: 300px"
+
+#: inc/customizer/wpbf-kirki.php:1147 inc/customizer/wpbf-kirki.php:1842
+msgid "Logo Area Background Color"
+msgstr "צבע רקע של תת-תפריט בסרגל הצד בתצוגת אפליקציה"
+
+#: inc/customizer/wpbf-kirki.php:1177 inc/customizer/wpbf-kirki.php:1533
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:222
+msgid "Background Color"
+msgstr "צבע רקע"
+
+#: inc/customizer/wpbf-kirki.php:1197 inc/customizer/wpbf-kirki.php:1545
+#: inc/integration/woocommerce/wpbf-kirki-woocommerce.php:201
+msgid "Font Color"
+msgstr "צבע פונט"
+
+#: inc/customizer/wpbf-kirki.php:1216 inc/customizer/wpbf-kirki.php:1259
+#: inc/customizer/wpbf-kirki.php:1557
+msgid "Hover"
+msgstr "בעת מעבר עכבר"
+
+#: inc/customizer/wpbf-kirki.php:1235
+msgid "Logo Color"
+msgstr "צבע"
+
+#: inc/customizer/wpbf-kirki.php:1283 inc/customizer/wpbf-kirki.php:2066
+msgid "Animation"
+msgstr "אנימציה"
+
+#: inc/customizer/wpbf-kirki.php:1289
+msgid "Fade In"
+msgstr "הופעה הדרגתית"
+
+#: inc/customizer/wpbf-kirki.php:1290
+msgid "Slide Down"
+msgstr "גלישה מטה"
+
+#: inc/customizer/wpbf-kirki.php:1305
+msgid "Animation Duration"
+msgstr "משך ההנפשה:"
+
+#: inc/customizer/wpbf-kirki.php:1338
+msgid "Box Shadow"
+msgstr "צל קופסה"
+
+#: inc/customizer/wpbf-kirki.php:1355
+msgid "Blur"
+msgstr "טשטוש (Blur)"
+
+#: inc/customizer/wpbf-kirki.php:1408 inc/customizer/wpbf-kirki.php:1865
+msgid "Off Canvas Settings"
+msgstr "הגדרות מצב מחוץ לקנבס"
+
+#: inc/customizer/wpbf-kirki.php:1429 inc/customizer/wpbf-kirki.php:1881
+msgid "Full Screen Menu Settings"
+msgstr "הגדרות התפריט במסך מלא"
+
+#: inc/customizer/wpbf-kirki.php:1449 inc/customizer/wpbf-kirki.php:1494
+#: inc/customizer/wpbf-kirki.php:1934
+msgid "Hamburger Icon Color"
+msgstr "המבורגר סמל צבע"
+
+#: inc/customizer/wpbf-kirki.php:1474
+msgid "Mobile Menu Settings"
+msgstr "הגדרות התפריט ניידים"
+
+#: inc/customizer/wpbf-kirki.php:1596
+msgid "Sub Menu Animation"
+msgstr "הנפשת התפריט sub"
+
+#: inc/customizer/wpbf-kirki.php:1602 inc/customizer/wpbf-kirki.php:2072
+msgid "Fade"
+msgstr "עמעום"
+
+#: inc/customizer/wpbf-kirki.php:1603
+msgid "Down"
+msgstr "נגד"
+
+#: inc/customizer/wpbf-kirki.php:1604
+msgid "Up"
+msgstr "התוסף מעודכן!"
+
+#: inc/customizer/wpbf-kirki.php:1605
+msgid "Zoom In"
+msgstr "הגדלת תצוגה"
+
+#: inc/customizer/wpbf-kirki.php:1606
+msgid "Zoom Out"
+msgstr "הרחקה"
+
+#: inc/customizer/wpbf-kirki.php:1664 inc/customizer/wpbf-kirki.php:1911
+msgid "Menu Width"
+msgstr "רוחב התפריט"
+
+#: inc/customizer/wpbf-kirki.php:1665
+msgid "Default: 320px"
+msgstr ""
+"ברירת מחדל: 320px\n"
+"‬"
+
+#: inc/customizer/wpbf-kirki.php:1746
+msgid "Paste your shortcode to replace the default menu with your Custom Menu. <br><br>Example:<br>[elementor-template id=\"xxx\"]<br>[fl_builder_insert_layout id=\"xxx\"]"
+msgstr "הדבק את ה- shortcode שלך להחלפת תפריט ברירת המחדל עם תפריט מותאם אישית שלך.  <br><br>דוגמה: <br>[elementor-template id=“xxx”]<br>[fl_builder_insert_layout id=“xxx”]"
+
+#: inc/customizer/wpbf-kirki.php:1764
+msgid "Advanced Settings"
+msgstr "הגדרות מתקדמות"
+
+#: inc/customizer/wpbf-kirki.php:1779
+msgid "Menu Alignment"
+msgstr "יישור תפריט"
+
+#: inc/customizer/wpbf-kirki.php:1802
+msgid "Content beside Logo"
+msgstr "תוכן לצד הלוגו‬"
+
+#: inc/customizer/wpbf-kirki.php:1896
+msgid "Push Menu"
+msgstr "תפריט"
+
+#: inc/customizer/wpbf-kirki.php:1955
+msgid "Off Canvas Menu Background Color"
+msgstr "צבע הרקע של התפריט מחוץ לקנבס"
+
+#: inc/customizer/wpbf-kirki.php:1975
+msgid "Submenu Arrow Color"
+msgstr "תפריט משנה צבע החץ"
+
+#: inc/customizer/wpbf-kirki.php:2049
+msgid "Hover Effect"
+msgstr "אפקט כאשר העכבר מעל"
+
+#: inc/customizer/wpbf-kirki.php:2056
+msgid "Underline"
+msgstr "קו תחתון"
+
+#: inc/customizer/wpbf-kirki.php:2057
+msgid "Box"
+msgstr "הוסף תיבת מחיר"
+
+#: inc/customizer/wpbf-kirki.php:2058
+msgid "Modern"
+msgstr "מודרני"
+
+#: inc/customizer/wpbf-kirki.php:2073
+msgid "Slide"
+msgstr "גלישה"
+
+#: inc/customizer/wpbf-kirki.php:2074
+msgid "Grow"
+msgstr "כחול"
+
+#: inc/customizer/wpbf-kirki.php:2094
+msgid "Alignment"
+msgstr "יישור"
+
+#: inc/customizer/wpbf-kirki.php:2167
+msgid "Border Radius"
+msgstr "הרדיוס של המסגרת"
+
+#: inc/customizer/wpbf-kirki.php:2196
+msgid "Sticky Footer"
+msgstr "תחתונה דביק"
+
+#: inc/customizer/wpbf-kirki.php:2219
+msgid "One Column"
+msgstr "טור אחד ב- CSV צריך את כותרת האירוע. טור אחר צריך את תאריך ההתחלה של האירוע. כל השדות האחרים הם אופציונליים."
+
+#: inc/customizer/wpbf-kirki.php:2220
+msgid "Two Columns"
+msgstr "שני טוריםComment"
+
+#: inc/customizer/wpbf-kirki.php:2228
+msgid "Column 1"
+msgstr "טור 1"
+
+#: inc/customizer/wpbf-kirki.php:2230
+msgid "&copy; [year] - [blogname] | All rights reserved"
+msgstr "‫&copy; כל זכויות  שמורות |  [year] - [blogname]‬"
+
+#: inc/customizer/wpbf-kirki.php:2245
+msgid "Column 2"
+msgstr "עמודה שנייה"
+
+#: inc/customizer/wpbf-kirki.php:2247
+msgid "Powered by [credit url=\"https://wp-pagebuilderframework.com\" name=\"Page Builder Framework\"]"
+msgstr "נבנה באמצעות  [credit url=\"https://wp-pagebuilderframework.com\" name=\"Page Builder Framework\"]"
+
+#: inc/customizer/wpbf-kirki.php:2269
+msgid "Custom Footer"
+msgstr "כותרת תחתונה מותאמת אישית"
+
+#: inc/customizer/wpbf-kirki.php:2270
+msgid "Paste your shortcode to populate a saved row/template throughout your website. <br><br>Examples:<br>[elementor-template id=\"xxx\"]<br>[fl_builder_insert_layout id=\"xxx\"]"
+msgstr "הדבק את ה- shortcode לאכלוס שורה/תבנית שנשמר לאורך כל האתר שלך.  <br><br>דוגמאות: <br>[elementor-template id=\"xxx\"]<br>[fl_builder_insert_layout id=\"xxx\"]"
+
+#: inc/customizer/wpbf-kirki.php:2286
+msgid "Head Code"
+msgstr "קוד לתגית &lt;head&gt;"
+
+#: inc/customizer/wpbf-kirki.php:2287
+msgid "Runs inside the head tag."
+msgstr "פועל בתוך תג ראש."
+
+#: inc/customizer/wpbf-kirki.php:2299
+msgid "Header Code"
+msgstr "קוד הידר"
+
+#: inc/customizer/wpbf-kirki.php:2300
+msgid "Runs after the opening body tag."
+msgstr "פועל לאחר פתיחת הגוף תג."
+
+#: inc/customizer/wpbf-kirki.php:2312
+msgid "Footer Code"
+msgstr "קוד פוטר"
+
+#: inc/customizer/wpbf-kirki.php:2313
+msgid "Add Scripts (Google Analytics, etc.) here. Runs before the closing body tag (wp_footer)."
+msgstr "הוסף סקריפט (Google Analytics, etc.) כאן. עולה לפני סגירת גוף תג(wp_footer)."
+
+#. Name of the plugin
+#. Description of the plugin
+msgid "Page Builder Framework Premium Addon"
+msgstr "הרחבת פרמיום למסגרת בונה האתרים"
+
+#. Author of the plugin
+msgid "MapSteps"
+msgstr "MapSteps"
+
+#. Author URI of the plugin
+msgid "https://mapsteps.com"
+msgstr "https://mapsteps.com"

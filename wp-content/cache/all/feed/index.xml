@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Lameira &amp; Quirino Advogados</title>
+	<atom:link href="https://lameiraequirinoadvogados.com.br/feed/" rel="self" type="application/rss+xml" />
+	<link>https://lameiraequirinoadvogados.com.br/</link>
+	<description></description>
+	<lastBuildDate>Fri, 21 Oct 2022 13:58:37 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://lameiraequirinoadvogados.com.br/wp-content/uploads/2020/02/Logo-opcao-2-06-150x150.png</url>
+	<title>Lameira &amp; Quirino Advogados</title>
+	<link>https://lameiraequirinoadvogados.com.br/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+</channel>
+</rss>

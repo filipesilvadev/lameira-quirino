@@ -1,0 +1,461 @@
+/* Navigation */
+
+// Transparent Header
+.wpbf-transparent-header {
+	.wpbf-navigation {
+		position: absolute;
+		background: transparent;
+	}
+	.wpbf-menu-stacked-advanced-wrapper {
+		background: transparent;
+	}
+	.wpbf-mobile-nav-wrapper {
+		background: transparent;
+	}
+}
+
+// Sticky Header
+.wpbf-navigation-active,
+.wpbf-transparent-header .wpbf-navigation-active {
+	background-color: $base-color-alt;
+	.wpbf-menu-stacked-advanced-wrapper {
+		background: #fff;
+	}
+}
+
+.wpbf-navigation-active .wpbf-nav-wrapper {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.wpbf-navigation-animate {
+	@include transition(all 0.3s);
+}
+
+/* Stacked Advanced */
+.wpbf-menu-stacked-advanced-wrapper {
+	padding-top: $padding;
+	padding-bottom: $padding;
+	background: #fff;
+	.wpbf-container {
+		width: 100%;
+		@include flex();
+		align-items: center;
+	}
+	.wpbf-3-4 {
+		text-align: right;
+	}
+}
+
+// Alignment Modifier (Center)
+.wpbf-menu-stacked-advanced.menu-align-center {
+	.wpbf-1-4 {
+		text-align: center;
+		width: 100%;
+	}
+	.wpbf-3-4 {
+		display: none;
+	}
+	.wpbf-menu {
+		@include flex();
+		align-items: center;
+		justify-content: center;
+	}
+}
+
+// Alignment Modifier (Right)
+.wpbf-menu-stacked-advanced.menu-align-right {
+	.wpbf-1-4 {
+		order: 2;
+		text-align: right;
+	}
+	.wpbf-3-4 {
+		order: 1;
+		text-align: left;
+	}
+	.wpbf-menu {
+		float: right;
+	}
+}
+
+/* Sub Menu */
+
+// WooCommerce Menu Item
+.wpbf-sub-menu {
+	> .menu-item-has-children {
+		> .wpbf-woo-sub-menu {
+			display: none;
+			position: absolute;
+			z-index: 111;
+			background: #fff;
+			@include box-shadow(0px 0px 10px 0px rgba(0,0,0,0.15));
+		}
+	}
+}
+
+// Sub Menu Animation Down
+.wpbf-sub-menu-animation-down {
+	> .menu-item-has-children {
+		> .sub-menu {
+			margin-top: -10px;
+			opacity: 0;
+		}
+	}
+}
+
+// Sub Menu Animation Up
+.wpbf-sub-menu-animation-up {
+	> .menu-item-has-children {
+		> .sub-menu {
+			margin-top: 10px;
+			opacity: 0;
+		}
+	}
+}
+
+// Sub Menu Zoom In
+.wpbf-sub-menu-animation-zoom-in {
+	> .menu-item-has-children {
+		> .sub-menu {
+			opacity: 0;
+			@include scale(.95);
+		}
+	}
+}
+
+// Sub Menu Zoom Out
+.wpbf-sub-menu-animation-zoom-out {
+	> .menu-item-has-children {
+		> .sub-menu {
+			opacity: 0;
+			@include scale(1.05);
+		}
+	}
+}
+
+/* Mega Menu */
+.wpbf-mega-menu {
+	// mega menu container
+	> .sub-menu {
+		right: 0;
+		padding: $padding 0;
+	}
+	// rows
+	> .sub-menu > .menu-item {
+		padding: 0 $padding;
+		float: left;
+		// all links
+		a {
+			padding: 0;
+			margin-bottom: $margin-small;
+		}
+		// headlines
+		a[href="#"] {
+			color: $brand-color;
+			font-weight: $bold;
+			margin-bottom: $margin;
+			cursor: default;
+			display: inline-block;
+		}
+	}
+}
+
+.wpbf-mega-menu {
+	.wpbf-menu-description {
+		margin-bottom: $margin-small;
+		p {
+			margin-bottom: $margin-small;
+			font-weight: 400;
+			font-size: $small-fontsize;
+		}
+		img {
+			width: 100%;
+			height: auto;
+			margin-bottom: $margin-small;
+		}
+	}
+}
+
+.wpbf-mega-menu.wpbf-mega-menu-4 > .sub-menu {
+	width: 100%;
+	> .menu-item {
+		width: 25%;
+	}
+}
+.wpbf-mega-menu.wpbf-mega-menu-3 > .sub-menu {
+	width: 75%;
+	> .menu-item {
+		width: 33.3333%;
+	}
+}
+.wpbf-mega-menu.wpbf-mega-menu-2 > .sub-menu {
+	width: 50%;
+	> .menu-item {
+		width: 50%;
+	}
+}
+.wpbf-mega-menu.wpbf-mega-menu-1 > .sub-menu {
+	width: 25%;
+	> .menu-item {
+		width: 100%;
+	}
+}
+
+// Align Mega Menu to the left for left aligned menu's
+.wpbf-menu-left,
+.wpbf-menu-stacked-advanced.menu-align-left {
+	.wpbf-mega-menu {
+		> .sub-menu {
+			right: auto;
+			left: 0;
+		}
+	}
+}
+
+// Hide Mega Menu from Off-Canvas Menu
+.wpbf-menu-off-canvas {
+	.wpbf-mega-menu {
+		display: none;
+	}
+}
+
+/* Mobile Menu */
+
+// Mobile Mega Menu
+.wpbf-mobile-mega-menu {
+	.sub-menu .sub-menu {
+		display: block;
+	}
+	.menu-item {
+		border-width: 0;
+	}
+	.sub-menu .menu-item {
+		.wpbf-submenu-toggle {
+			display: none;
+		}
+		a[href="#"] {
+			color: $brand-color;
+			font-weight: $bold;
+			cursor: default;
+		}
+		a[href="#"]:after {
+			display: none;
+		}
+	}
+}
+
+// Hamburger Left
+// .wpbf-mobile-menu-hamburger-left {
+// 	.wpbf-mobile-nav-wrapper {
+// 		@include flex();
+// 		align-items: center;
+// 		justify-content: space-between;
+// 		width: 100%;
+// 	}
+// 	.wpbf-menu-toggle-container {
+// 		@include flex();
+// 		justify-content: flex-end;
+// 		align-items: center;
+// 		flex-direction: row-reverse;
+// 	}
+// 	.wpbf-mobile-logo-container {
+// 		text-align: right;
+// 	}
+// 	.wpbf-mobile-nav-item {
+// 		margin: 0 0 0 15px;
+// 	}
+// 	.wpbf-mobile-menu-toggle {
+// 		margin: 0;
+// 	}
+// }
+
+// Off Canvas
+.wpbf-mobile-menu-off-canvas {
+	.wpbf-mobile-menu-container {
+		display: block;
+		position: fixed;
+		top: 0;
+		z-index: 777;
+		width: 320px;
+		right: -320px;
+		height: 100%;
+		padding-top: 60px;
+		@include transition(right 0.6s cubic-bezier(0.000, 0.085, 0.000, 0.990));
+	}
+	.wpbf-mobile-menu-container.active {
+		right: 0;
+	}
+	.wpbf-close {
+		position: absolute;
+		left: 0;
+		top: 0;
+		padding: $padding;
+		cursor: pointer;
+		@include transition(opacity .2s);
+	}
+	.wpbf-close:hover {
+		opacity: .5;
+	}
+}
+
+.wpbf-mobile-menu-overlay {
+	position: fixed;
+	width: 100%;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	opacity: 0;
+	background: rgba(0,0,0,.5);
+	display: none;
+}
+
+/* Off Canvas */
+
+.wpbf-menu-off-canvas {
+	background: #fff;
+	z-index: 777;
+	width: 400px;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	padding: $padding;
+	.wpbf-menu {
+		a {
+			padding: $padding-small 0;
+		}
+	}
+	.wpbf-menu .menu-item-has-children {
+		position: relative;
+		.wpbf-submenu-toggle {
+			position: absolute;
+			top: 0;
+			right: 0;
+			padding: $padding-small 0;
+			cursor: pointer;
+		}
+		.sub-menu {
+			display: none;
+			a {
+				padding: $padding-small 0 $padding-small $padding-small;
+			}
+		}
+	}
+	.wpbf-close {
+		position: absolute;
+		right: 0;
+		top: 0;
+		padding: $padding;
+		cursor: pointer;
+		@include transition(opacity .2s);
+	}
+	.wpbf-close:hover {
+		opacity: .5;
+	}
+}
+
+// Off Canvas Right
+.wpbf-menu-off-canvas-right {
+	@include transition(right 0.6s cubic-bezier(0.000, 0.085, 0.000, 0.990));
+	right: -400px;
+}
+
+.wpbf-menu-off-canvas-right.active {
+	right: 0;
+}
+
+// Push Menu Right
+.wpbf-push-menu-right {
+	left: 0;
+	position: relative;
+	overflow-x: hidden;
+	@include transition(left 0.6s cubic-bezier(0.000, 0.085, 0.000, 0.990));
+	.wpbf-navigation-active {
+		@include transition(left 0.6s cubic-bezier(0.000, 0.085, 0.000, 0.990));
+	}
+}
+
+.wpbf-push-menu-right.active {
+	left: -400px;
+	.wpbf-navigation-active {
+		left: -400px !important;
+	}
+}
+
+// Off Canvas Left
+.wpbf-menu-off-canvas-left {
+	@include transition(left 0.6s cubic-bezier(0.000, 0.085, 0.000, 0.990));
+	left: -400px;
+}
+
+.wpbf-menu-off-canvas-left.active {
+	left: 0;
+}
+
+// Push Menu Left
+.wpbf-push-menu-left {
+	left: 0;
+	position: relative;
+	overflow-x: hidden;
+	@include transition(left 0.6s cubic-bezier(0.000, 0.085, 0.000, 0.990));
+	.wpbf-navigation-active {
+		@include transition(left 0.6s cubic-bezier(0.000, 0.085, 0.000, 0.990));
+	}
+}
+
+.wpbf-push-menu-left.active {
+	left: 400px;
+	.wpbf-navigation-active {
+		left: 400px !important;
+	}
+}
+
+// Off Canvas Overlay
+.wpbf-menu-overlay {
+	position: fixed;
+	width: 100%;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	opacity: 0;
+	background: rgba(0,0,0,.5);
+	display: none;
+}
+
+/* Full Screen */
+.wpbf-menu-full-screen {
+	background: #fff;
+	display: none;
+	z-index: 777;
+	width: 100%;
+	height: 100%;
+	position: fixed;
+	top: 0;
+	left: 0;
+	padding: $padding;
+	.wpbf-menu {
+		text-align: center;
+		@include center-align();
+	}
+	// close icon
+	.wpbf-close {
+		position: absolute;
+		right: 0;
+		top: 0;
+		padding: $padding;
+		cursor: pointer;
+		@include transition(opacity .2s);
+	}
+	.wpbf-close:hover {
+		opacity: .5;
+	}
+	.wpbf-menu > .menu-item-has-children > a:after {
+		display: none;
+	}
+}
+
+/* Navigation Hover Effects */
+
+ul[class*="wpbf-menu-effect-"] > .menu-item > a {
+	position: relative;
+	z-index: 1;
+}
